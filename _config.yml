@@ -1,6 +1,8 @@
 # Site settings
+
 title: "Jason Allen Resume"
 description: "A resume template for Jason Allen."
+
 
 # Build settings
 markdown: kramdown
